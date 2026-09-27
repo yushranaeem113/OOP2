@@ -1,0 +1,85 @@
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe.config
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\bin\Debug\StudyManagement.pdb
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.AssemblyReference.cache
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AdminHomePage.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Homepage.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.LogIn.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageCourses.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageStudents.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Properties.Resources.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Registration.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.pdb
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe.config
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AddCourseForm.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AddSemesterForm.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.GradeSetting.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.StudentHomePage.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.TrackCourseForm.resources
+C:\Users\OWNER\source\repos\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ViewCurrentSemesterForm.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\bin\Debug\StudyManagement.exe.config
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\bin\Debug\StudyManagement.exe
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\bin\Debug\StudyManagement.pdb
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.csproj.AssemblyReference.cache
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.AddCourseForm.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.AddSemesterForm.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.AdminHomePage.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.GradeSetting.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.Homepage.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.LogIn.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.ManageCourses.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.ManageStudents.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.Properties.Resources.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.Registration.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.StudentHomePage.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.TrackCourseForm.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.ViewCurrentSemesterForm.resources
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.csproj.GenerateResource.cache
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.csproj.CoreCompileInputs.cache
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.exe
+C:\Users\amzad\Downloads\study management 1\study management\StudyManagement\obj\Debug\StudyManagement.pdb
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe.config
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\bin\Debug\StudyManagement.pdb
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.AssemblyReference.cache
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe.config
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AddCourseForm.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AddSemesterForm.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AdminHomePage.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.GradeSetting.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Homepage.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.LogIn.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageCourses.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageStudents.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Properties.Resources.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Registration.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.StudentHomePage.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.TrackCourseForm.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ViewCurrentSemesterForm.resources
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.GenerateResource.cache
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe
+C:\Users\OWNER\Downloads\StudyManagement\StudyManagement\obj\Debug\StudyManagement.pdb
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.AssemblyReference.cache
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AddSemesterForm.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AdminHomePage.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.AssessmentForm.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.GradeSetting.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Homepage.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.LogIn.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageCourses.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.ManageStudents.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Properties.Resources.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.Registration.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.StudentHomePage.resources
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.GenerateResource.cache
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.csproj.CoreCompileInputs.cache
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.pdb
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe.config
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\bin\Debug\StudyManagement.exe
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\bin\Debug\StudyManagement.pdb
+C:\Users\amzad\Downloads\StudyManagement\StudyManagement\StudyManagement\obj\Debug\StudyManagement.exe.config

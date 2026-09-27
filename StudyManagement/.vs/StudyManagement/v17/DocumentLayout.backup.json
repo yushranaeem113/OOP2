@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\studenthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\studenthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\studenthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\studenthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\managecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\managecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\managecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\managecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\gradesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\gradesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\gradesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\gradesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|c:\\users\\amzad\\downloads\\studymanagement\\studymanagement\\studymanagement\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.StudentSemesters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.AdminGradeThresholds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.AdminStudents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.Admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\studymanagement\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C76EFB2-C2A5-47C9-AAC4-80621C40FFEC}|StudyManagement\\StudyManagement.csproj|solutionrelative:studymanagement\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.CourseAssessments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Session.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Session.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Session.cs",
+              "RelativeToolTip": "StudyManagement\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:40:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Program.cs",
+              "RelativeToolTip": "StudyManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:40:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\ManageStudents.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageStudents.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\ManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:06:53.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageStudents.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\ManageStudents.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageStudents.cs",
+              "RelativeToolTip": "StudyManagement\\ManageStudents.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:11:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Registration.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Registration.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Registration.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:12:34.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Registration.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Registration.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Registration.cs",
+              "RelativeToolTip": "StudyManagement\\Registration.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:12:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Student.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Student.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Student.cs",
+              "RelativeToolTip": "StudyManagement\\Student.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAkwOYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:14:46.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\StudentHomePage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\StudentHomePage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\StudentHomePage.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\StudentHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:05:46.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\StudentHomePage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\StudentHomePage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\StudentHomePage.cs",
+              "RelativeToolTip": "StudyManagement\\StudentHomePage.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAAAMkBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:43:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\User.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\User.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\User.cs",
+              "RelativeToolTip": "StudyManagement\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:07:13.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageCourses.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageCourses.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\ManageCourses.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageCourses.cs",
+              "RelativeToolTip": "StudyManagement\\ManageCourses.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:21:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageCourses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageCourses.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\ManageCourses.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\ManageCourses.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\ManageCourses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:21:07.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Homepage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Homepage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Homepage.cs",
+              "RelativeToolTip": "StudyManagement\\Homepage.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:39:38.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GradeSetting.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\GradeSetting.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\GradeSetting.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\GradeSetting.cs",
+              "RelativeToolTip": "StudyManagement\\GradeSetting.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:39:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Semester.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Semester.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Semester.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Semester.cs",
+              "RelativeToolTip": "StudyManagement\\Semester.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:23:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GradeSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\GradeSetting.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\GradeSetting.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\GradeSetting.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\GradeSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:21:31.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Grades.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Grades.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Grades.cs",
+              "RelativeToolTip": "StudyManagement\\Grades.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:05:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Course.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Course.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Course.cs",
+              "RelativeToolTip": "StudyManagement\\Course.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAQwGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:05:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Operations.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Operations.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Operations.cs",
+              "RelativeToolTip": "StudyManagement\\Operations.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAIwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:40:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AdminHomePage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\AdminHomePage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AdminHomePage.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\AdminHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:03:03.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Assessments.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Assessments.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Assessments.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Assessments.cs",
+              "RelativeToolTip": "StudyManagement\\Assessments.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wLcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:26:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Assessment.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Assessment.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Assessment.cs",
+              "RelativeToolTip": "StudyManagement\\Assessment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:37:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Admin.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Admin.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Admin.cs",
+              "RelativeToolTip": "StudyManagement\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:02:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Homepage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\Homepage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\Homepage.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:19:04.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.StudentSemesters [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.StudentSemesters.sql",
+              "ToolTip": "dbo.StudentSemesters [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T02:23:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AdminHomePage.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\AdminHomePage.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AdminHomePage.cs",
+              "RelativeToolTip": "StudyManagement\\AdminHomePage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:03:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.AdminGradeThresholds [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.AdminGradeThresholds.sql",
+              "ToolTip": "dbo.AdminGradeThresholds [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T02:21:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.AdminStudents [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.AdminStudents.sql",
+              "ToolTip": "dbo.AdminStudents [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T02:20:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\LogIn.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\LogIn.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\LogIn.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T02:07:09.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\LogIn.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\LogIn.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\LogIn.cs",
+              "RelativeToolTip": "StudyManagement\\LogIn.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:46:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T02:17:25.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Admins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.Admins.sql",
+              "ToolTip": "dbo.Admins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T02:14:15.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AssessmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AssessmentForm.cs",
+              "RelativeDocumentMoniker": "StudyManagement\\AssessmentForm.cs",
+              "ToolTip": "C:\\Users\\amzad\\Downloads\\StudyManagement\\StudyManagement\\StudyManagement\\AssessmentForm.cs [Design]",
+              "RelativeToolTip": "StudyManagement\\AssessmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:04:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.CourseAssessments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.CourseAssessments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_AMZAD_DOCUMENTS_STUDENTSTUDY.MDF/True/SqlTable/dbo.CourseAssessments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-21T17:45:37.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿ALTER TABLE AdminStudents
+Drop Constraint PK_AdminStudents;
